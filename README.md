@@ -1,2 +1,6 @@
 # app_movies
-App for testing movies
+Ready for install
+
+Only sync dependencies and run app in debugger
+
+
